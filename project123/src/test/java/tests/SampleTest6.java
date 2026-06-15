@@ -8,7 +8,7 @@ class SampleTest6 {
 
 	@Test
 	void test() {
-	System.out.println("test1");
+	System.out.println("test145678");
 	}
 
 }
