@@ -2,11 +2,11 @@ package tests;
 
 import org.junit.jupiter.api.Test;
 
-class SampleTest6 {
+class SampleTest5 {
 
 	@Test
 	void test() {
-	System.out.println("test222222");
+	System.out.println("test111111");
 	}
 
 }
